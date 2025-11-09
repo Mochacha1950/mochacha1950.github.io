@@ -16,7 +16,7 @@
       <description>&lt;p&gt;Hello, this is my first tech blog created with Hugo + GitHub Pages&lt;/p&gt;
 &lt;p&gt;&amp;lsquo;&amp;lsquo;&amp;lsquo;bash
 echo &amp;ldquo;Hello, world!&amp;rdquo;&lt;/p&gt;
-&lt;p&gt;-today&amp;rsquo;s Mac terminal history
+&lt;p&gt;-today&amp;rsquo;s Mac terminal history&lt;br&gt;
 241  git &amp;ndash;version&lt;br&gt;
 242  git update&lt;br&gt;
 243  git &amp;ndash;help&lt;br&gt;
